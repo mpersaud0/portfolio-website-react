@@ -10,7 +10,7 @@ const About = ({props}) =>{
                     <h2>My name's Michael.<br></br>
                     Web Developer,<br></br>
                     Graphic Designer,<br></br>
-                    Drift Event Organizer.<br></br></h2>
+                    Drift Event Organizer<br></br></h2>
                 </div>
             </div>
         </div>
